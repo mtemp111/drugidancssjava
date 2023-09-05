@@ -1,0 +1,92 @@
+JAVASCRIPT
+
+
+Console i Web API
+
+JS statements
+    declaring data type is optional (sometimes)
+    fiksiranje literall
+    varijable 
+
+let var const
+    var declared globaly used in function
+    var redefined inside func in case when both run and not run 
+JS operatori
+    aritmeticki 
+    logicki
+    operatori dodjelivanja vrijednosti
+    operatori poredjenja ? ternary operator 
+    type operatori 
+Expressions
+
+Keywords
+
+Type podataka
+    undefined 
+    string
+    number 
+    boolean
+    null
+    symbol
+
+
+    object
+    function
+
+
+    NaN
+    Infinity
+    null
+    undefined(void)
+    +0,-0
+
+
+Native types, functions, constructors
+    newString();
+    newNumber();
+Conditional Statements
+    if
+    if else 
+    if    else if   else if     else 
+
+    if (condition) {
+
+    }
+
+
+Conditional Statements, switch 
+
+Ternary operator 
+    console.log(2>3 ? "da" ! "ne")
+
+Coercion
+    implicitno
+        u string bool broj 
+        .toString()
+        .toBool()
+        .to
+        parseInt()
+    explicitno
+        kontruktorima 
+            newString
+
+Implicit Coercion
+    == true / == false
+        1==="1" i 1 == "1"
+    operatori rade sa razlictim tipovima vrijednosti
+    console.lof(!!"string")
+    konkatinacija inta i string
+
+    if test 66 false
+    if string1
+
+Loops
+    while(condition) {
+        code block to be executed
+    }
+    for ()
+
+    inside loops when iterating temporary variable i declaring let var or non 
+
+
+

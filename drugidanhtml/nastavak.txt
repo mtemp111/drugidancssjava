@@ -1,0 +1,95 @@
+sfloat : left right none inherit 
+clear : none left right none  inherit 
+clearfix hack : overflow:auto 
+    inheritance child parent 
+    parent element ima punu velicinu u odnosu na child element classa posebna
+
+align
+opacitiy
+
+layout sranice:
+    header bar
+layout content 
+    1/2/3 column 
+footer:
+    druge stranice social copyright
+
+responsive:
+    viewport
+    <meta>
+    grid view(nije pravi grid)
+
+media quaries 
+    responsive media quaries   
+        min/max widht/height 
+        orientation
+    responsive media quaries breakpoints
+
+units#
+    absolute i relative 
+primjeri
+    navigacioni meni
+    dropdown list
+    galerija slika
+    forme prim1/2
+
+FLEX 
+    block inline table positioned
+    a complete guide to flexbox 
+
+    flex container
+        .flex-container {
+            display:flex;
+        }
+        flex-direction
+        flex-wrap
+            wrap, wrap-reverse,no-wrap
+        flex-flow 
+
+        jusitfy-content
+            center flex-start flex-end space-around space-between space-evenly
+        align-items
+            center flex-start flex-end stretch baseline
+        align-content
+            slicno align items
+    flex items ili flex children 
+        order i direction 
+        flex-grow (grow items)
+        flex-shrink
+        flex-basis
+    ###relative to device vs relative to items around procentage
+        align-self
+    flex primjeri i w3s
+
+GRID
+    dvodimenzionalni prikaz elemenata
+    flexbox 1 dimension       grid 2 directions
+    grid-template-colums
+    column-gap
+    row-gap
+    grid-gap
+    grid frakcije 
+    grid repeat 
+    grid procentages
+    grid template areas
+        matrices
+background (vise slika kao bacground)
+    .container {
+    }
+    linear-gradient
+        generator gradienta
+    
+box-shadow
+    dimensions and opacitiy
+animacije
+    transition
+    transform
+    animation
+    animate.css
+    uikit bootsrap 
+    animacije selekori konflikt promjena selektora u vremenu izvodjenja animacije 
+    animacija vrijeme eksponencijalna funkicje vremena
+    raineffect neoneffect
+    
+
+    
